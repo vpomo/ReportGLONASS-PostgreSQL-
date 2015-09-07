@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - reportglonass@localhost" uuid="45ff096f-14c3-477d-b480-441585b25f37">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>reportglonass.*</schema-pattern>
+      <default-schemas>reportglonass.*</default-schemas>
+    </data-source>
+    <data-source name="PostgreSQL - reportglonass@localhost" uuid="2474df34-1ecd-481d-abc4-644b4ef92f8e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>reportglonass.pg_catalog reportglonass.public</schema-pattern>
+      <default-schemas>reportglonass.pg_catalog reportglonass.public</default-schemas>
+    </data-source>
+  </component>
+</project>

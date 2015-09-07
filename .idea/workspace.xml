@@ -1,0 +1,2272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56325c6b-5f5e-4961-9e80-c87e36780ebc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_9_4_1202_jdbc4.xml" />
+      <change type="DELETED" beforePath="D:\Java\workspace\RepGlPgre\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_22.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java\workspace\RepGlPgre\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java\workspace\RepGlPgre\reportglonass.uml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java\workspace\RepGlPgre\sql\reportglonass.sql" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractUsersServiceTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractUsersServiceTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ReportGLONASS.iml" afterPath="$PROJECT_DIR$/.idea/ReportGLONASS.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ReportGLONASS_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ReportGLONASS_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/business-config.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/business-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/data-access.properties" afterPath="$PROJECT_DIR$/src/main/resources/spring/data-access.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="ReportGLONASS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="true" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ReportGLONASS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AbstractDraftReportServiceTests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractDraftReportServiceTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.0607142">
+              <caret line="198" column="8" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaLogUsersRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaDraftReportRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/LogUsersServiceTestsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/LogUsersServiceTests.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/mvc-view-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/mvc-core-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/datasource-security.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/application-security.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/web/AdminUsersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaUsersRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/Users.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/Report.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/LogUsers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/DraftReport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/UsersRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/LogUsersRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaLogUsersRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/UsersService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/LogUsersService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/UsersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/LogUsersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/filter/web_filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/Home.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/CommonPhorm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/ViewReport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/Private.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/AdminUsers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/UsersServiceJpaTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/LogUsersServiceJpaTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/ReportServiceJpaTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/DraftReportServiceJpaTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractLogUsersServiceTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaReportRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaDraftReportRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/ReportRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/DraftReportRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/ReportService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/ReportServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/DraftReportService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/DraftReportServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/MakeReports.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/datasource-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/data-access.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/business-config.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractUsersServiceTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractReportServiceTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractDraftReportServiceTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="showVersions" value="true" />
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ReportGLONASS" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ReportGLONASS" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.jadira.usertype:usertype.core:3.2.0.GA" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ReportGLONASS" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ReportGLONASS" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="tomcat7" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ReportGLONASS" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="3" />
+    <option name="width" value="1576" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnparsedCustomBeanInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportGLONASS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportGLONASS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RepGlPgre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportGLONASS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RepGlPgre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reportglonass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportGLONASS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RepGlPgre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reportglonass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportGLONASS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RepGlPgre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportGLONASS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RepGlPgre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReportGLONASS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RepGlPgre" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="preferences.applicationServers" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="45ff096f-14c3-477d-b480-441585b25f37" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.vpomo.reportglonass.web" />
+      <recent name="com.vpomo.reportglonass.service" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.vpomo.reportglonass.model" />
+      <recent name="com.vpomo.reportglonass.web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.reportglonass">
+    <configuration default="false" name="UsersServiceJpaTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ReportGLONASS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.vpomo.reportglonass.service" />
+      <option name="MAIN_CLASS_NAME" value="com.vpomo.reportglonass.service.UsersServiceJpaTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReportServiceJpaTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ReportGLONASS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.vpomo.reportglonass.service" />
+      <option name="MAIN_CLASS_NAME" value="com.vpomo.reportglonass.service.ReportServiceJpaTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DraftReportServiceJpaTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ReportGLONASS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="com.vpomo.reportglonass.service" />
+      <option name="MAIN_CLASS_NAME" value="com.vpomo.reportglonass.service.DraftReportServiceJpaTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.15" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ReportGLONASS:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_ReportGLONASS" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57292" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ReportGLONASS:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57295" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="LogUsersServiceJpaTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ReportGLONASS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.vpomo.reportglonass.service" />
+      <option name="MAIN_CLASS_NAME" value="com.vpomo.reportglonass.service.LogUsersServiceJpaTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="reportglonass" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.62" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ReportGLONASS:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ReportGLONASS_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57292" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LogUsersServiceJpaTests" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.reportglonass" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.UsersServiceJpaTests" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ReportServiceJpaTests" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DraftReportServiceJpaTests" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DraftReportServiceJpaTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ReportServiceJpaTests" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UsersServiceJpaTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SpringBeansView">
+    <option name="showFilesets" value="false" />
+    <option name="showImplicitBeans" value="false" />
+    <option name="showInfrastructureBeans" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56325c6b-5f5e-4961-9e80-c87e36780ebc" name="Default" comment="" />
+      <created>1438242704586</created>
+      <option name="number" value="Default" />
+      <updated>1438242704586</updated>
+      <workItem from="1438242701468" duration="6462000" />
+      <workItem from="1438347158920" duration="3101000" />
+      <workItem from="1438350464284" duration="1245000" />
+      <workItem from="1438353359468" duration="204000" />
+      <workItem from="1438485280982" duration="5148000" />
+      <workItem from="1438492948436" duration="18427000" />
+      <workItem from="1438607306656" duration="8750000" />
+      <workItem from="1438692618002" duration="5192000" />
+      <workItem from="1438698794626" duration="2735000" />
+      <workItem from="1438781162588" duration="6623000" />
+      <workItem from="1438862536475" duration="6713000" />
+      <workItem from="1438870152806" duration="2172000" />
+      <workItem from="1439039732504" duration="6178000" />
+      <workItem from="1439101570735" duration="5766000" />
+      <workItem from="1439114645027" duration="5313000" />
+      <workItem from="1439125862557" duration="2522000" />
+      <workItem from="1439210015400" duration="8540000" />
+      <workItem from="1439301145369" duration="4938000" />
+      <workItem from="1439385749081" duration="5936000" />
+      <workItem from="1439422959756" duration="1578000" />
+      <workItem from="1439886826228" duration="2401000" />
+      <workItem from="1439942865353" duration="2294000" />
+      <workItem from="1439972076327" duration="3593000" />
+      <workItem from="1440028841178" duration="1895000" />
+      <workItem from="1440135651884" duration="7287000" />
+      <workItem from="1440144030662" duration="2565000" />
+      <workItem from="1440373473848" duration="10372000" />
+      <workItem from="1440459678277" duration="7639000" />
+      <workItem from="1440546145322" duration="2223000" />
+      <workItem from="1441064624928" duration="2278000" />
+      <workItem from="1441234952755" duration="1935000" />
+      <workItem from="1441321756595" duration="5011000" />
+      <workItem from="1441351630555" duration="2950000" />
+      <workItem from="1441356350447" duration="1378000" />
+      <workItem from="1441613916064" duration="2732000" />
+      <workItem from="1441667079924" duration="1786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="165882000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="3" width="1576" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881773" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32779098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32779098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881773" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32824427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3016627" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32779098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22756827" sideWeight="0.53741497" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22757256" sideWeight="0.46258503" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22559367" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.49491096" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39904988" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32824427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39904988" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Persistence/JavaeeElement:/3d0a254e/springjpa/ReportGLONASS/jpa/JPA/PersistenceModel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Persistence</ID>
+          <OriginalElement>JavaeeElement:/3d0a254e/springjpa/ReportGLONASS/jpa/JPA/PersistenceModel</OriginalElement>
+          <nodes>
+            <node x="" y="">Report#file://D:/Java/WorkSpace/ReportGLONASS/src/main/java/com/vpomo/reportglonass/model/Report.java</node>
+            <node x="" y="">Draftreport#file://D:/Java/WorkSpace/ReportGLONASS/src/main/java/com/vpomo/reportglonass/model/Draftreport.java</node>
+            <node x="" y="">LogUsers#file://D:/Java/WorkSpace/ReportGLONASS/src/main/java/com/vpomo/reportglonass/model/LogUsers.java</node>
+            <node x="" y="">Users#file://D:/Java/WorkSpace/ReportGLONASS/src/main/java/com/vpomo/reportglonass/model/Users.java</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.3035758323057953" x="820.0" y="-879.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Embeddables</Category>
+            <Category>Properties</Category>
+            <Category>Superclasses</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/45ff096f-14c3-477d-b480-441585b25f37">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>45ff096f-14c3-477d-b480-441585b25f37</OriginalElement>
+          <nodes>
+            <node x="213.0" y="213.0">45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.draftreport</node>
+            <node x="2664.0" y="213.0">45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.report</node>
+            <node x="0.0" y="1434.0">45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.log_users</node>
+            <node x="1306.5" y="0.0">45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.users</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.report" target="45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.users">
+              <point x="0.0" y="-1280.5" />
+              <point x="3865.5" y="188.0" />
+              <point x="1509.8333333333333" y="188.0" />
+              <point x="81.33333333333331" y="81.5" />
+            </edge>
+            <edge source="45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.log_users" target="45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.users">
+              <point x="0.0" y="-59.5" />
+              <point x="96.5" y="188.0" />
+              <point x="1347.1666666666667" y="188.0" />
+              <point x="-81.33333333333331" y="81.5" />
+            </edge>
+            <edge source="45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.draftreport" target="45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.users">
+              <point x="0.0" y="-1280.5" />
+              <point x="0.0" y="81.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="2841.0" y="344.0" />
+          <SelectedNodes>
+            <node>45ff096f-14c3-477d-b480-441585b25f37.table:reportglonass.report</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.vpomo:ReportGLONASS:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.vpomo:ReportGLONASS:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.vpomo:ReportGLONASS:1.0-SNAPSHOT</node>
+            <node x="151.0" y="0.0">org.jadira.usertype:usertype.core:jar:3.2.0.GA</node>
+            <node x="286.0" y="0.0">org.jadira.usertype:usertype.core:jar:3.2.0.GA/org.jadira.usertype:usertype.spi:jar:3.2.0.GA</node>
+            <node x="151.0" y="40.0">org.apache.tomcat:tomcat-servlet-api:jar:7.0.42</node>
+            <node x="151.0" y="80.0">javax.servlet.jsp:jsp-api:jar:2.1</node>
+            <node x="151.0" y="120.0">org.glassfish.web:jstl-impl:jar:1.2</node>
+            <node x="259.0" y="120.0">org.glassfish.web:jstl-impl:jar:1.2/javax.servlet.jsp.jstl:jstl-api:jar:1.2</node>
+            <node x="151.0" y="160.0">com.sun.xml.bind:jaxb-impl:jar:2.2.7</node>
+            <node x="265.0" y="160.0">com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.bind:jaxb-core:jar:2.2.7</node>
+            <node x="378.0" y="160.0">com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.bind:jaxb-core:jar:2.2.7/javax.xml.bind:jaxb-api:jar:2.2.7</node>
+            <node x="378.0" y="200.0">com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.bind:jaxb-core:jar:2.2.7/com.sun.istack:istack-commons-runtime:jar:2.16</node>
+            <node x="265.0" y="240.0">com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.12</node>
+            <node x="386.0" y="240.0">com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.12/javax.xml.bind:jsr173_api:jar:1.0</node>
+            <node x="151.0" y="280.0">com.jayway.jsonpath:json-path:jar:2.0.0</node>
+            <node x="266.0" y="280.0">com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1</node>
+            <node x="387.0" y="280.0">com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2</node>
+            <node x="473.0" y="280.0">com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2/asm:asm:jar:3.3.1</node>
+            <node x="151.0" y="320.0">org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE</node>
+            <node x="297.0" y="320.0">org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.9.0.RELEASE</node>
+            <node x="297.0" y="360.0">org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE/org.springframework:spring-context:jar:4.0.7.RELEASE</node>
+            <node x="297.0" y="400.0">org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE/org.springframework:spring-beans:jar:4.0.7.RELEASE</node>
+            <node x="297.0" y="440.0">org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.7</node>
+            <node x="151.0" y="480.0">org.springframework:spring-core:jar:4.1.6.RELEASE</node>
+            <node x="276.0" y="480.0">org.springframework:spring-core:jar:4.1.6.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="151.0" y="520.0">org.springframework:spring-jdbc:jar:4.1.6.RELEASE</node>
+            <node x="151.0" y="560.0">org.springframework:spring-aop:jar:4.1.6.RELEASE</node>
+            <node x="273.0" y="560.0">org.springframework:spring-aop:jar:4.1.6.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="151.0" y="600.0">org.springframework:spring-webmvc:jar:4.1.6.RELEASE</node>
+            <node x="298.0" y="600.0">org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-expression:jar:4.1.6.RELEASE</node>
+            <node x="298.0" y="640.0">org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-web:jar:4.1.6.RELEASE</node>
+            <node x="151.0" y="680.0">org.springframework:spring-tx:jar:4.1.6.RELEASE</node>
+            <node x="151.0" y="720.0">org.springframework:spring-context-support:jar:4.1.6.RELEASE</node>
+            <node x="151.0" y="760.0">org.springframework:spring-orm:jar:4.1.6.RELEASE</node>
+            <node x="151.0" y="800.0">org.springframework:spring-oxm:jar:4.1.6.RELEASE</node>
+            <node x="151.0" y="840.0">org.aspectj:aspectjrt:jar:1.8.5</node>
+            <node x="151.0" y="880.0">org.aspectj:aspectjweaver:jar:1.8.5</node>
+            <node x="151.0" y="920.0">org.apache.tomcat:tomcat-jdbc:jar:7.0.42</node>
+            <node x="281.0" y="920.0">org.apache.tomcat:tomcat-jdbc:jar:7.0.42/org.apache.tomcat:tomcat-juli:jar:7.0.42</node>
+            <node x="151.0" y="960.0">org.slf4j:slf4j-api:jar:1.7.12</node>
+            <node x="151.0" y="1000.0">ch.qos.logback:logback-classic:jar:1.1.3</node>
+            <node x="296.0" y="1000.0">ch.qos.logback:logback-classic:jar:1.1.3/ch.qos.logback:logback-core:jar:1.1.3</node>
+            <node x="151.0" y="1040.0">joda-time:joda-time:jar:2.7</node>
+            <node x="151.0" y="1080.0">joda-time:joda-time-hibernate:jar:1.3</node>
+            <node x="151.0" y="1120.0">joda-time:joda-time-jsptags:jar:1.1.1</node>
+            <node x="151.0" y="1160.0">mysql:mysql-connector-java:jar:5.1.22</node>
+            <node x="151.0" y="1200.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final</node>
+            <node x="347.0" y="1200.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.jboss.logging:jboss-logging:jar:3.1.3.GA</node>
+            <node x="347.0" y="1240.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.jboss.logging:jboss-logging-annotations:jar:1.2.0.Beta1</node>
+            <node x="347.0" y="1280.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate:hibernate-core:jar:4.3.8.Final</node>
+            <node x="489.0" y="1280.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate:hibernate-core:jar:4.3.8.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="489.0" y="1320.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss:jandex:jar:1.1.0.Final</node>
+            <node x="347.0" y="1360.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="445.0" y="1360.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2</node>
+            <node x="347.0" y="1400.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate.common:hibernate-commons-annotations:jar:4.0.5.Final</node>
+            <node x="347.0" y="1440.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="347.0" y="1480.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.0.Final</node>
+            <node x="347.0" y="1520.0">org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="151.0" y="1560.0">org.hibernate:hibernate-validator:jar:4.3.1.Final</node>
+            <node x="316.0" y="1560.0">org.hibernate:hibernate-validator:jar:4.3.1.Final/javax.validation:validation-api:jar:1.0.0.GA</node>
+            <node x="151.0" y="1600.0">org.hibernate:hibernate-ehcache:jar:4.3.8.Final</node>
+            <node x="151.0" y="1640.0">net.sf.ehcache:ehcache-core:jar:2.6.10</node>
+            <node x="151.0" y="1680.0">org.webjars:bootstrap:jar:2.3.0</node>
+            <node x="151.0" y="1720.0">org.webjars:jquery-ui:jar:1.10.3</node>
+            <node x="151.0" y="1760.0">org.webjars:jquery:jar:2.0.3-1</node>
+            <node x="151.0" y="1800.0">org.springframework:spring-test:jar:4.1.6.RELEASE</node>
+            <node x="151.0" y="1840.0">junit:junit:jar:4.12</node>
+            <node x="239.0" y="1840.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="151.0" y="1880.0">org.assertj:assertj-core:jar:2.0.0</node>
+            <node x="276.0" y="1880.0">org.assertj:assertj-core:jar:2.0.0/com.github.marschall:memoryfilesystem:jar:0.6.4</node>
+            <node x="151.0" y="1920.0">com.github.dandelion:datatables-jsp:jar:0.10.1</node>
+            <node x="289.0" y="1920.0">com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1</node>
+            <node x="435.0" y="1920.0">com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1</node>
+            <node x="580.0" y="1920.0">com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1/com.fasterxml.jackson.core:jackson-core:jar:2.3.1</node>
+            <node x="580.0" y="1960.0">com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.3.1</node>
+            <node x="580.0" y="2000.0">com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1/com.fasterxml.jackson.core:jackson-databind:jar:2.3.1</node>
+            <node x="435.0" y="2040.0">com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.googlecode.json-simple:json-simple:jar:1.1.1</node>
+            <node x="435.0" y="2080.0">com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/commons-beanutils:commons-beanutils:jar:1.8.3</node>
+            <node x="289.0" y="2120.0">com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:dandelion-jsp:jar:0.10.1</node>
+            <node x="151.0" y="2160.0">com.github.dandelion:datatables-export-itext:jar:0.10.1</node>
+            <node x="334.0" y="2160.0">com.github.dandelion:datatables-export-itext:jar:0.10.1/com.itextpdf:itextpdf:jar:5.4.5</node>
+            <node x="151.0" y="2200.0">c3p0:c3p0:jar:0.9.1.2</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="234.0" y="1455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-tx:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="joda-time:joda-time:jar:2.7">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1055.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.glassfish.web:jstl-impl:jar:1.2" target="org.glassfish.web:jstl-impl:jar:1.2/javax.servlet.jsp.jstl:jstl-api:jar:1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.assertj:assertj-core:jar:2.0.0" target="org.assertj:assertj-core:jar:2.0.0/com.github.marschall:memoryfilesystem:jar:0.6.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.webjars:jquery-ui:jar:1.10.3">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate:hibernate-core:jar:4.3.8.Final/antlr:antlr:jar:2.7.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE/org.springframework:spring-context:jar:4.0.7.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="209.0" y="375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.tomcat:tomcat-jdbc:jar:7.0.42" target="org.apache.tomcat:tomcat-jdbc:jar:7.0.42/org.apache.tomcat:tomcat-juli:jar:7.0.42">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate.common:hibernate-commons-annotations:jar:4.0.5.Final">
+              <point x="0.0" y="0.0" />
+              <point x="234.0" y="1415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2" target="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2/asm:asm:jar:3.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.jadira.usertype:usertype.core:jar:3.2.0.GA" target="org.jadira.usertype:usertype.core:jar:3.2.0.GA/org.jadira.usertype:usertype.spi:jar:3.2.0.GA">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.aspectj:aspectjweaver:jar:1.8.5">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="895.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.apache.tomcat:tomcat-jdbc:jar:7.0.42">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="935.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE/org.springframework:spring-beans:jar:4.0.7.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="209.0" y="415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1">
+              <point x="0.0" y="0.0" />
+              <point x="234.0" y="1375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-aop:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-core:jar:4.1.6.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE/commons-logging:commons-logging:jar:1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.6.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-expression:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="joda-time:joda-time-hibernate:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1095.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.apache.tomcat:tomcat-servlet-api:jar:7.0.42">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="55.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-oxm:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate:hibernate-core:jar:4.3.8.Final">
+              <point x="0.0" y="0.0" />
+              <point x="234.0" y="1295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-jsp:jar:0.10.1" target="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:dandelion-jsp:jar:0.10.1">
+              <point x="0.0" y="0.0" />
+              <point x="205.0" y="2135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="net.sf.ehcache:ehcache-core:jar:2.6.10">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="com.github.dandelion:datatables-jsp:jar:0.10.1">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1935.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-orm:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1" target="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="492.5" y="1975.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.jayway.jsonpath:json-path:jar:2.0.0" target="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.jboss.logging:jboss-logging-annotations:jar:1.2.0.Beta1">
+              <point x="0.0" y="0.0" />
+              <point x="234.0" y="1255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="ch.qos.logback:logback-classic:jar:1.1.3">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1015.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.bind:jaxb-core:jar:2.2.7" target="com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.bind:jaxb-core:jar:2.2.7/javax.xml.bind:jaxb-api:jar:2.2.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="com.sun.xml.bind:jaxb-impl:jar:2.2.7">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.glassfish.web:jstl-impl:jar:1.2">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1" target="com.jayway.jsonpath:json-path:jar:2.0.0/net.minidev:json-smart:jar:2.1.1/net.minidev:asm:jar:1.0.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.9.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.22">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:4.3.1.Final" target="org.hibernate:hibernate-validator:jar:4.3.1.Final/javax.validation:validation-api:jar:1.0.0.GA">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.webjars:jquery:jar:2.0.3-1">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-jsp:jar:0.10.1" target="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.javassist:javassist:jar:3.18.1-GA">
+              <point x="0.0" y="0.0" />
+              <point x="234.0" y="1535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss:jandex:jar:1.1.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="403.0" y="1335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="234.0" y="1495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.sun.xml.bind:jaxb-impl:jar:2.2.7" target="com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.12">
+              <point x="0.0" y="0.0" />
+              <point x="193.0" y="255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ch.qos.logback:logback-classic:jar:1.1.3" target="ch.qos.logback:logback-classic:jar:1.1.3/ch.qos.logback:logback-core:jar:1.1.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.hibernate:hibernate-ehcache:jar:4.3.8.Final">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1" target="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/commons-beanutils:commons-beanutils:jar:1.8.3">
+              <point x="0.0" y="0.0" />
+              <point x="347.0" y="2095.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.6.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-web:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="209.5" y="655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="junit:junit:jar:4.12">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.jadira.usertype:usertype.core:jar:3.2.0.GA">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.7">
+              <point x="0.0" y="0.0" />
+              <point x="209.0" y="455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="com.github.dandelion:datatables-export-itext:jar:0.10.1">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="2175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.hibernate:hibernate-validator:jar:4.3.1.Final">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1" target="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework:spring-context-support:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.assertj:assertj-core:jar:2.0.0">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1895.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.bind:jaxb-core:jar:2.2.7" target="com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.bind:jaxb-core:jar:2.2.7/com.sun.istack:istack-commons-runtime:jar:2.16">
+              <point x="0.0" y="0.0" />
+              <point x="306.5" y="215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1" target="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.googlecode.json-simple:json-simple:jar:1.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="347.0" y="2055.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.slf4j:slf4j-api:jar:1.7.12">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="975.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/org.jboss.logging:jboss-logging:jar:3.1.3.GA">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1" target="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1/com.fasterxml.jackson.core:jackson-databind:jar:2.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="492.5" y="2015.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="javax.servlet.jsp:jsp-api:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="95.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.springframework.data:spring-data-jpa:jar:1.7.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-aop:jar:4.1.6.RELEASE" target="org.springframework:spring-aop:jar:4.1.6.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.12" target="com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.12/javax.xml.bind:jsr173_api:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1" target="org.hibernate:hibernate-entitymanager:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-export-itext:jar:0.10.1" target="com.github.dandelion:datatables-export-itext:jar:0.10.1/com.itextpdf:itextpdf:jar:5.4.5">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.sun.xml.bind:jaxb-impl:jar:2.2.7" target="com.sun.xml.bind:jaxb-impl:jar:2.2.7/com.sun.xml.bind:jaxb-core:jar:2.2.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="c3p0:c3p0:jar:0.9.1.2">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="2215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.webjars:bootstrap:jar:2.3.0">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="com.jayway.jsonpath:json-path:jar:2.0.0">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="org.aspectj:aspectjrt:jar:1.8.5">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.vpomo:ReportGLONASS:1.0-SNAPSHOT" target="joda-time:joda-time-jsptags:jar:1.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="60.5" y="1135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1" target="com.github.dandelion:datatables-jsp:jar:0.10.1/com.github.dandelion:datatables-core:jar:0.10.1/com.github.dandelion:dandelion-core:jar:0.10.1/com.fasterxml.jackson.core:jackson-core:jar:2.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.22666666666666666" x="361.0" y="1115.0" />
+          <SelectedNodes>
+            <node>com.vpomo:ReportGLONASS:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.7.RELEASE/spring-beans-4.0.7.RELEASE.jar!/org/springframework/beans/factory/support/BeanDefinitionValueResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3509804">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/mvc-core-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6481482">
+          <caret line="11" column="74" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/web/AdminUsersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52040815">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/application-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44060475">
+          <caret line="12" column="92" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/mvc-view-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8292683">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/LogUsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15178572">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/DraftReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4857143">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/UsersRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6375">
+          <caret line="26" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/LogUsersRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4857143">
+          <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/UsersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3642857">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaUsersRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09642857">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24285714">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/LogUsersServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.375">
+          <caret line="23" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/UsersServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2125">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/filter/web_filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/LogUsersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaLogUsersRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/DraftReportServiceJpaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/LogUsersServiceJpaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/UsersServiceJpaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/Private.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/AdminUsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.425">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/ReportServiceJpaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaDraftReportRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="254" column="0" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/DraftReportRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/ReportService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/ReportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/DraftReportService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/service/DraftReportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2474df34-1ecd-481d-abc4-644b4ef92f8e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/datasource-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57410884">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/business-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51031893">
+          <caret line="35" column="80" selection-start-line="35" selection-start-column="80" selection-end-line="35" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/data-access.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54464287">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractUsersServiceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.3160715">
+          <caret line="142" column="35" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/jpa/JpaReportRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/CommonPhorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27321428">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/web/MakeReports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="696" column="22" selection-start-line="696" selection-start-column="18" selection-end-line="696" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/model/Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12678571">
+          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractLogUsersServiceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractReportServiceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6964286">
+          <caret line="146" column="8" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vpomo/reportglonass/repository/ReportRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vpomo/reportglonass/service/AbstractDraftReportServiceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0607142">
+          <caret line="198" column="8" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ReportGLONASS:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (ReportGLONASS)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate|ReportGLONASS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
